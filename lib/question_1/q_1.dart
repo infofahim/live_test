@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(){
-  var base=
+
    triangle();
 
 }
